@@ -1,0 +1,33 @@
+.primary {
+	color: blue;
+	font-family: Tahoma;
+	font-size: 120%;
+	font-style: italic;
+	text-align: center;
+	border: 5px;
+	border-style: dotted;
+	border-color: black;
+	padding: 5px;
+}
+  
+.secondary {
+	color: red;
+	font-weight: lighter;
+	text-decoration: underline;
+	text-transform: uppercase;
+	margin: 50px;
+}
+
+.tertiary {
+	white-space: pre;
+}
+
+.fourth {
+	text-indent: 50px;
+}
+
+.fifth {
+	line-height: 90%;
+	letter-spacing: 2px;
+	vertical-align: super;
+}
